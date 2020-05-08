@@ -14,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="ccc" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,10 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="第一次提交测试git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="132" key="CommitChangelistDialog2" timestamp="1588951385486">
+    <state x="446" y="132" key="CommitChangelistDialog2" timestamp="1588951555126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="446" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588951385486" />
+    <state x="446" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588951555126" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588825913060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -126,9 +126,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588826753456" />
-    <state x="438" y="272" key="Vcs.Push.Dialog.v2" timestamp="1588951421793">
+    <state x="438" y="272" key="Vcs.Push.Dialog.v2" timestamp="1588951560694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="438" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588951421793" />
+    <state x="438" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588951560694" />
   </component>
 </project>
